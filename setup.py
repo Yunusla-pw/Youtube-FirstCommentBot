@@ -71,7 +71,7 @@ setup(
                                     'youbot.*']),
     # py_modules=['main'],
     test_suite='tests',
-    url='https://github.com/drkostas/Youtube-FirstCommentBot',
+    url='https://www.youtube.com/watch?v=jg56tkfeRK4&t=50s',
     version='2.0',
     zip_safe=False,
 )
